@@ -1,0 +1,10 @@
+numpy==1.26.3
+TPOT==0.12.2
+seaborn
+scikit-learn==1.5.1
+plotly
+matplotlib
+matplotlib-inline
+joblib
+pandas
+translate==3.6.1
